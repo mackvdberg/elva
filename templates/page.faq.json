@@ -1,0 +1,141 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "faq_RPUEPH": {
+      "type": "faq",
+      "blocks": {
+        "item_XbrCt9": {
+          "type": "item",
+          "settings": {
+            "title": "Jak długo trwa realizacja zamówienia?",
+            "content": "<p>Oto nasze szacunkowe czasy dostawy:</p><ul><li><strong>Czas realizacji:</strong> 1–5 dni roboczych</li><li><strong>Czas wysyłki:</strong> 4–7 dni roboczych</li><li><strong>Szacowany czas dostawy:</strong> 5–12 dni roboczych</li></ul><p>Zapoznaj się z naszą <a href=\"/pages/polityka-wysyki\" title=\"Polityka wysyłki\">Polityką wysyłki</a>, aby uzyskać więcej informacji.</p>"
+          }
+        },
+        "item_Mrhn8f": {
+          "type": "item",
+          "settings": {
+            "title": "Czy oferujecie darmową wysyłkę?",
+            "content": "<p>Tak, oferujemy darmową wysyłkę na wszystkie zamówienia na terenie Polski.<br/><br/>Zapoznaj się z naszą <a href=\"/pages/polityka-wysyki\" title=\"Polityka wysyłki\"><span style=\"text-decoration:underline\">Polityką wysyłki</span></a>, aby uzyskać więcej informacji.</p>"
+          }
+        },
+        "item_r3EaAN": {
+          "type": "item",
+          "settings": {
+            "title": "Co powinienem zrobić, jeśli otrzymam wadliwy produkt?",
+            "content": "<p>Jeśli otrzymasz wadliwy produkt, wymienimy go bezpłatnie. Skontaktuj się z nami i odeślij produkt w ciągu 30 dni.<br/><br/>Więcej informacji znajdziesz w naszej <a href=\"/pages/polityka-zwrotow-i-refundacji\" title=\"Polityka zwrotów i refundacji\">Polityce zwrotów</a>.</p>"
+          }
+        },
+        "item_3LXMwK": {
+          "type": "item",
+          "settings": {
+            "title": "Czy mogę anulować moje zamówienie po jego złożeniu?",
+            "content": "<p>Tak, oferujemy możliwość anulowania zamówienia w ciągu 24 godzin. Jeśli chcesz anulować swoje zamówienie w tym czasie, skontaktuj się z nami.</p>"
+          }
+        },
+        "item_JQaadz": {
+          "type": "item",
+          "settings": {
+            "title": "Jaka jest Wasza polityka zwrotów?",
+            "content": "<p>Nasza procedura zwrotów jest prosta. Zapoznaj się z naszą pełną <a href=\"/pages/polityka-zwrotow-i-refundacji\" title=\"Polityka zwrotów i refundacji\"><span style=\"text-decoration:underline\">Polityką zwrotów</span></a>, aby poznać wszystkie szczegóły dotyczące odsyłania produktów.</p>"
+          }
+        },
+        "item_paDkzn": {
+          "type": "item",
+          "settings": {
+            "title": "Kiedy otrzymam zwrot pieniędzy po odesłaniu produktu?",
+            "content": "<p>Gdy tylko otrzymamy i sprawdzimy odesłany produkt, przystąpimy do realizacji zwrotu pieniędzy. W zależności od Twojego banku lub operatora płatności, kwota zazwyczaj pojawia się na pierwotnej metodzie płatności w ciągu 5 dni roboczych. Więcej informacji znajdziesz w naszej <a href=\"/pages/polityka-zwrotow-i-refundacji\" title=\"Polityka zwrotów i refundacji\"><span style=\"text-decoration:underline\">Polityce zwrotów i zwrotu pieniędzy</span>.</a></p>"
+          }
+        },
+        "item_eygiNN": {
+          "type": "item",
+          "settings": {
+            "title": "Czy oferujecie gwarancję na swoje produkty?",
+            "content": "<p>Tak, udzielamy 30-dniowej gwarancji na wszystkie zakupy. Więcej informacji znajdziesz w naszej <a href=\"/pages/polityka-zwrotow-i-refundacji\" title=\"Polityka zwrotów i refundacji\"><span style=\"text-decoration:underline\">Polityce zwrotów</span></a>.</p>"
+          }
+        },
+        "item_KJntBW": {
+          "type": "item",
+          "settings": {
+            "title": "Jak mogę skontaktować się z obsługą klienta?",
+            "content": "<p>Możesz skontaktować się z naszym działem obsługi klienta poprzez stronę <a href=\"/pages/kontakt\" title=\"Kontakt\"><span style=\"text-decoration:underline\">Kontakt </span></a>lub wysyłając e-mail na adres<br/><a href=\"mailto:info@oniniwarszawa.com\" title=\"mailto:info@oniniwarszawa.com\"><strong>info@oniniwarszawa.com</strong></a></p>"
+          }
+        },
+        "item_B6kwRj": {
+          "type": "item",
+          "settings": {
+            "title": "Czy wysyłacie produkty za granicę?",
+            "content": "<p>Nie, obecnie wysyłamy wyłącznie na terenie Polski.</p>"
+          }
+        },
+        "item_DWFLVt": {
+          "type": "item",
+          "settings": {
+            "title": "Czy macie fizyczny sklep, który mogę odwiedzić?",
+            "content": "<p>Nie, jesteśmy sklepem internetowym, dzięki czemu możemy oferować najlepsze ceny oraz szeroki wybór produktów.</p>"
+          }
+        },
+        "item_MPQeBd": {
+          "type": "item",
+          "settings": {
+            "title": "Czy mogę złożyć zamówienie hurtowe dla mojej firmy lub organizacji?",
+            "content": "<p>Tak, akceptujemy zamówienia hurtowe. Skontaktuj się z naszym działem obsługi klienta, aby uzyskać więcej informacji.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_XbrCt9",
+        "item_Mrhn8f",
+        "item_r3EaAN",
+        "item_3LXMwK",
+        "item_JQaadz",
+        "item_paDkzn",
+        "item_eygiNN",
+        "item_KJntBW",
+        "item_B6kwRj",
+        "item_DWFLVt",
+        "item_MPQeBd"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Witamy w sekcji Najczęściej Zadawanych Pytań (FAQ) Onini Warszawa. Zebraliśmy tutaj najważniejsze informacje dotyczące zamówień, dostawy, zwrotów oraz płatności. W przypadku dodatkowych pytań pozostajemy do Państwa dyspozycji.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Obsługa klienta Onini Warszawa jest dostępna w godzinach: Pon–Pt 09:00–17:00, Sob–Nd 10:00–17:00.",
+        "answer_time": "Średni czas odpowiedzi: 24 godziny.",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    }
+  },
+  "order": [
+    "faq_RPUEPH",
+    "main"
+  ]
+}
