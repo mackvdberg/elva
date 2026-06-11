@@ -367,50 +367,6 @@
         "product_card_text_color": ""
       }
     },
-    "1764011559f2f663f1": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "17640116946be05ab3": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "1764011754c616fad6": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "1764011835e91166c9": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "text_with_icons_MHQxAN": {
       "type": "text-with-icons",
       "blocks": {
@@ -588,82 +544,6 @@
         "accordion_text_color": ""
       }
     },
-    "ss_tabs_block_JnMmet": {
-      "type": "ss-tabs-block",
-      "blocks": {
-        "tab_FymrUn": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "truck",
-            "question": "Envío y entrega",
-            "answer": "<p>Todos los pedidos dentro de España incluyen <strong>envío gratuito con seguimiento</strong>. Todos los paquetes se envían el <strong>siguiente día laborable </strong>a través de Correos.</p>",
-            "answer_html": ""
-          }
-        },
-        "tab_bTX86P": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "return_arrow",
-            "question": "Devoluciones hasta 30 días",
-            "answer": "<p>Tu satisfacción es nuestra prioridad.</p><p>Si no estás completamente satisfecho con tu compra, puedes devolver el producto en un plazo de <strong>30 días</strong> y recibir un <strong>reembolso completo</strong>.</p><p>Queremos que compres con <strong>total tranquilidad</strong>.</p>",
-            "answer_html": ""
-          }
-        },
-        "tab_d3mA9W": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "payment",
-            "question": "Pagos rápidos y seguros",
-            "answer": "<p>Utilizamos <strong>métodos de pago seguros y fiables</strong>, como <strong>Visa, Mastercard, Apple Pay y Google Pay</strong>.</p><p>Tus datos de pago están <strong>totalmente protegidos</strong>.</p>",
-            "answer_html": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_FymrUn",
-        "tab_bTX86P",
-        "tab_d3mA9W"
-      ],
-      "name": "SS - Product tabs",
-      "settings": {
-        "tabs_position": "below_buy",
-        "close_other": false,
-        "open_default": false,
-        "subtitle": "",
-        "subtitle_size": 10,
-        "subtitle_size_mobile": 10,
-        "subtitle_height": 150,
-        "title": "",
-        "title_size": 10,
-        "title_size_mobile": 10,
-        "title_height": 150,
-        "question_font_size": 15,
-        "question_font_size_mobile": 14,
-        "question_height": 150,
-        "answer_font_size": 13,
-        "answer_font_size_mobile": 13,
-        "answer_height": 140,
-        "icon_width": 22,
-        "arrow_size": 14,
-        "subtitle_color": "#121212",
-        "title_color": "#121212",
-        "text_color": "#121212",
-        "answer_color": "#121212",
-        "arrow_color": "#3a3a3a",
-        "border_color": "#eaeaea",
-        "background_color": "",
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "padding_x_desktop": 0,
-        "padding_x": 0,
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "button_padding_y": 10
-      }
-    },
     "image_with_text_overlay_dixQHr": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -686,14 +566,9 @@
     "testimonials_peqGKH",
     "1764013233e3b67ebb",
     "related-products",
-    "1764011559f2f663f1",
-    "17640116946be05ab3",
-    "1764011754c616fad6",
-    "1764011835e91166c9",
     "text_with_icons_MHQxAN",
     "image_with_text_overlay_mG9A9Q",
     "accordion_content_AHn8VQ",
-    "ss_tabs_block_JnMmet",
     "image_with_text_overlay_dixQHr"
   ]
 }
