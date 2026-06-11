@@ -230,9 +230,10 @@
       "blocks": {
         "heading_8m7jX6": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Elegancia en cada detalle",
-            "heading_tag": "h3"
+            "heading_tag": "h6"
           }
         }
       },
@@ -251,7 +252,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 12
+        "overlay_opacity": 25
       }
     },
     "featured_collection_P9DDR6": {
