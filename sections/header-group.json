@@ -61,7 +61,7 @@
         "logo": "shopify://shop_images/Elva_Santiago_fb16341d-68d2-417d-a527-0882e5011dd6.png",
         "logo_max_width": 145,
         "logo_mobile_max_width": 100,
-        "menu": "",
+        "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
