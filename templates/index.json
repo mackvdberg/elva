@@ -394,35 +394,35 @@
           "type": "item",
           "settings": {
             "title": "¿Cuándo se enviará mi pedido?",
-            "content": "<p>Enviamos todos nuestros pedidos dentro de España con <strong>Correos</strong>. Si realizas tu pedido antes de las 23:00, tu paquete se enviará al día siguiente de forma gratuita. Recibirás tu pedido rápido y sin costes adicionales.</p>"
+            "content": "<p>Una vez realizado tu pedido, nuestro equipo lo procesará y preparará cuidadosamente para su envío. Recibirás un correo electrónico con la información de seguimiento tan pronto como tu pedido haya sido despachado.</p><p><strong>Envío gratuito y seguimiento incluido en todos los pedidos.</strong></p>"
           }
         },
         "item_T6UwAW": {
           "type": "item",
           "settings": {
             "title": "¿Puedo devolver un artículo si no me queda bien?",
-            "content": "<p>Puedes devolver tu pedido de forma fácil y rápida dentro de los <strong>30 días </strong>posteriores a la recepción. Nos encargamos de que el proceso sea sencillo y sin complicaciones, para que no tengas que preocuparte por nada.</p>"
+            "content": "<p>Sí. Puedes devolver tu pedido dentro de los <strong>30 días posteriores a la recepción</strong>. Queremos que compres con total tranquilidad, por lo que hemos hecho que el proceso de devolución sea lo más sencillo posible.</p><p>Nuestro equipo estará encantado de ayudarte durante todo el proceso.</p>"
           }
         },
         "item_MEbiMi": {
           "type": "item",
           "settings": {
             "title": "¿Qué métodos de pago aceptan?",
-            "content": "<p>Aceptamos <strong>Visa, Mastercard, Apple Pay </strong>y<strong> Google Pay</strong>. En algunos casos también ofrecemos pagos en varias cuotas sin intereses.</p>"
+            "content": "<p>Aceptamos <strong>Visa, Mastercard, Apple Pay y Google Pay</strong> para que puedas realizar tu compra de forma rápida y segura.</p><p>Todos los pagos se procesan mediante conexiones seguras para garantizar la protección de tus datos.</p>"
           }
         },
         "item_zqYWXj": {
           "type": "item",
           "settings": {
             "title": "¿Qué pasa si el artículo no cumple con mis expectativas?",
-            "content": "<p>Si no estás satisfecho, puedes devolver el artículo dentro de <strong>30 días</strong>. Contáctanos y te explicaremos el proceso.</p>"
+            "content": "<p>Queremos que estés completamente satisfecho con tu compra. Si el artículo no cumple con tus expectativas, puedes solicitar una devolución dentro de los <strong>30 días posteriores a la recepción</strong>.</p><p>Solo tienes que ponerte en contacto con nuestro equipo de atención al cliente y estaremos encantados de ayudarte con el proceso.</p>"
           }
         },
         "item_BLe943": {
           "type": "item",
           "settings": {
             "title": "¿Cómo puedo contactarlos si necesito ayuda?",
-            "content": "<p>Puedes escribirnos por correo electrónico a info@elvamadrid.es. Respondemos dentro de 24–48 horas laborables.</p>"
+            "content": "<p>Puedes ponerte en contacto con nuestro equipo de atención al cliente en <a href=\"mailto:info@elvasantiago.com\"><strong>info@elvasantiago.com</strong></a>.</p><p>Nos esforzamos por responder a todas las consultas en un plazo de <strong>24 horas hábiles </strong>y estaremos encantados de ayudarte.</p>"
           }
         }
       },
@@ -438,10 +438,10 @@
         "full_width": true,
         "subheading": "",
         "title": "PREGUNTAS FRECUENTES",
-        "content": "<p>Aquí encontrarás respuestas a las preguntas más frecuentes.</p>",
+        "content": "<p></p><p></p><p></p>",
         "team_avatar_width": 160,
-        "support_hours": "Nuestro servicio de atención al cliente está disponible de lunes a viernes de 9:00 a 17:00, y los sábados y domingos de 10:00 a 17:00.",
-        "answer_time": "Tiempo medio de respuesta: 24 h",
+        "support_hours": "¿Tienes alguna pregunta? Estamos aquí para ayudarte.",
+        "answer_time": "Tiempo de respuesta: 24 horas",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
