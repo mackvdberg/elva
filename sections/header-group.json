@@ -1,1 +1,86 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message":{"type":"message","settings":{"text":"HASTA UN 50% DE DESCUENTO","url":""}},"message_yePxjR":{"type":"message","settings":{"text":"ENVÍO GRATIS CON CORREOS","url":""}},"message_qeiDBg":{"type":"message","settings":{"text":"DEVOLUCIONES FÁCILES EN UN PLAZO DE 30 DÍAS","url":""}}},"block_order":["message","message_yePxjR","message_qeiDBg"],"settings":{"enable_sticky":false,"autoplay":false,"cycle_speed":6,"text_size":"text-xxs","navigation_mode":"scrolling","scrolling_speed":10,"background":"#f3eee7","background_gradient":"","text_color":"#1a1a1a"}},"header":{"type":"header","settings":{"enable_sticky":true,"hide_on_scroll":false,"logo":"shopify:\/\/shop_images\/Ontwerp_zonder_titel-5.png","logo_max_width":120,"logo_mobile_max_width":100,"menu":"hoofdmenu","sidebar_menu":"","secondary_menu":"","menu_open_trigger":"click","opening_from":"bottom","layout":"drawer","show_social_media":false,"show_locale_selector":false,"show_country_selector":true,"show_country_flag":true,"show_country_name":false,"transparent_header_text_color":"#ffffff","reduce_padding":true,"background_opacity":100,"background_blur_radius":0}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "HASTA UN 50% DE DESCUENTO",
+            "url": ""
+          }
+        },
+        "message_yePxjR": {
+          "type": "message",
+          "settings": {
+            "text": "ENVÍO GRATIS CON CORREOS",
+            "url": ""
+          }
+        },
+        "message_qeiDBg": {
+          "type": "message",
+          "settings": {
+            "text": "DEVOLUCIONES FÁCILES EN UN PLAZO DE 30 DÍAS",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message",
+        "message_yePxjR",
+        "message_qeiDBg"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "autoplay": false,
+        "cycle_speed": 6,
+        "text_size": "text-xxs",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 10,
+        "background": "#f3eee7",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "logo": "shopify://shop_images/Elva_Santiago_fb16341d-68d2-417d-a527-0882e5011dd6.png",
+        "logo_max_width": 145,
+        "logo_mobile_max_width": 100,
+        "menu": "",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "click",
+        "opening_from": "bottom",
+        "layout": "drawer",
+        "show_social_media": false,
+        "show_locale_selector": false,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": false,
+        "transparent_header_text_color": "#ffffff",
+        "reduce_padding": true,
+        "background_opacity": 100,
+        "background_blur_radius": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
