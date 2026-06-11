@@ -93,9 +93,10 @@
         "item_zLQN64": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/magnific_use-the-provided-image-as_2904298814_c381e728-ac20-4709-9ae8-6c9a3acbd1f2.png",
             "stretch_image": true,
             "link_text": "Vestidos",
-            "link_url": "shopify://collections/vestidos",
+            "link_url": "shopify://collections/frontpage",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -105,9 +106,10 @@
         "item_NpCmb4": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/magnific_use-the-provided-image-as_2904300893_393ef1fe-6863-4bb7-826b-50e898b244ba.png",
             "stretch_image": true,
             "link_text": "Conjuntos",
-            "link_url": "shopify://collections/conjuntos",
+            "link_url": "shopify://collections/conjuctos",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -117,6 +119,7 @@
         "item_c97Nq9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/magnific_use-the-provided-image-as_2904356788_ae5836d6-34f8-4e22-85dd-846cf4d71347.png",
             "stretch_image": true,
             "link_text": "Tops y Blusas",
             "link_url": "shopify://collections/tops-y-blusas",
@@ -129,6 +132,7 @@
         "item_7eNW9K": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Pantalones_f167b52d-b6ef-437a-8840-d3fe834046d4.png",
             "stretch_image": true,
             "link_text": "Pantalones",
             "link_url": "shopify://collections/pantalones",
@@ -138,21 +142,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_P9aBgy": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "Sandalias",
-            "link_url": "shopify://collections/sandalias",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "item_7kJzcj": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/magnific_use-the-provided-image-as_2904311848_6dc2d10b-cb4b-41a7-8dd6-0b24b196984c.png",
             "stretch_image": true,
             "link_text": "Calzado",
             "link_url": "shopify://collections/calzado",
@@ -162,36 +155,13 @@
             "overlay_opacity": 0
           }
         },
-        "item_qXeTxJ": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "Bolsos",
-            "link_url": "shopify://collections/bolsos",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "item_aPNqcJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/magnific_use-the-provided-image-as_2904313140.png",
             "stretch_image": true,
-            "link_text": "Accesorios",
-            "link_url": "shopify://collections/accesorios",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_yBDQXa": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "Bikinis",
-            "link_url": "shopify://collections/bikinis",
+            "link_text": "Joyas",
+            "link_url": "shopify://collections/joyas",
             "background": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
@@ -204,11 +174,8 @@
         "item_NpCmb4",
         "item_c97Nq9",
         "item_7eNW9K",
-        "item_P9aBgy",
         "item_7kJzcj",
-        "item_qXeTxJ",
-        "item_aPNqcJ",
-        "item_yBDQXa"
+        "item_aPNqcJ"
       ],
       "settings": {
         "full_width": true,
