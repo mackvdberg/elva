@@ -19,7 +19,7 @@
         "show_collection_description": false,
         "show_collection_image": true,
         "collection_title_size": "h3",
-        "image_size": "sm",
+        "image_size": "auto",
         "image": "shopify://shop_images/hf_20260611_132038_2a69c7e3-53e3-4696-bb63-1b111d864df0.png",
         "mobile_image": "shopify://shop_images/hf_20260611_132038_1fea539e-f051-4ff6-946e-16a444dee5bc.png",
         "mobile_text_position": "place-self-center text-center",
