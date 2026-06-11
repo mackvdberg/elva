@@ -226,15 +226,8 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
-        "products": [
-          "eliza-conjunto-con-chaqueta-clasica",
-          "weronica-traje-con-pantalon-ancho",
-          "harlo-vestido-con-botones",
-          "aria-vestido-con-corte-fluido",
-          "taylor-conjunto-deportivo-con-pantalon-ancho",
-          "liliana-conjunto-deportivo-con-pantalon-ancho"
-        ],
+        "collection": "frontpage",
+        "products": [],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
