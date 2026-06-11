@@ -252,17 +252,6 @@
         "overlay_opacity": 12
       }
     },
-    "17649713880f356bb7": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured_collection_P9DDR6": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -294,28 +283,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "1764703796508f5db5": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "1764705998738f5313": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "ss_scrolling_images_6tG3bn": {
@@ -387,6 +354,7 @@
         "image_8aP6F9",
         "image_ehcchd"
       ],
+      "disabled": true,
       "name": "SS - Scrolling images",
       "settings": {
         "heading": "<p><strong>NUESTRA COMUNIDAD</strong></p>",
@@ -534,7 +502,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/hf_20260611_123814_8790760a-101f-4413-9c6f-cef4441a4c3c.png",
-        "mobile_image": "shopify://shop_images/hf_20260611_123814_be1aa208-e95a-4114-816d-0bb0b9568abe.png",
+        "mobile_image": "shopify://shop_images/hf_20260611_132708_a871d8bf-8cd6-4919-92f7-849251b66e3b.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -550,10 +518,7 @@
     "1768739966b43c59e4",
     "image-link-blocks",
     "image_with_text_overlay_4tqRFx",
-    "17649713880f356bb7",
     "featured_collection_P9DDR6",
-    "1764703796508f5db5",
-    "1764705998738f5313",
     "ss_scrolling_images_6tG3bn",
     "1768741694f4379c60",
     "faq_PpdCgK",
