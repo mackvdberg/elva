@@ -533,6 +533,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/hf_20260611_123814_8790760a-101f-4413-9c6f-cef4441a4c3c.png",
+        "mobile_image": "shopify://shop_images/hf_20260611_123814_be1aa208-e95a-4114-816d-0bb0b9568abe.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
