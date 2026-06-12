@@ -192,36 +192,6 @@
         "heading_gradient": ""
       }
     },
-    "image_with_text_overlay_4tqRFx": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_8m7jX6": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "text": "Elegancia en cada detalle",
-            "heading_tag": "h6"
-          }
-        }
-      },
-      "block_order": [
-        "heading_8m7jX6"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/hf_20260611_133329_d37f65db-19c2-45e9-b5f3-d6d9f71d3620.png",
-        "mobile_image": "shopify://shop_images/hf_20260611_133323_f68cbb6f-3959-4e75-8d09-20c2324d0a85.png",
-        "mobile_text_position": "place-self-end-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 25
-      }
-    },
     "featured_collection_P9DDR6": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -376,6 +346,36 @@
         "lazy": true
       }
     },
+    "image_with_text_overlay_4tqRFx": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_8m7jX6": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Elegancia en cada detalle",
+            "heading_tag": "h6"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8m7jX6"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/hf_20260611_133329_d37f65db-19c2-45e9-b5f3-d6d9f71d3620.png",
+        "mobile_image": "shopify://shop_images/hf_20260611_133323_f68cbb6f-3959-4e75-8d09-20c2324d0a85.png",
+        "mobile_text_position": "place-self-end-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 25
+      }
+    },
     "1768741694f4379c60": {
       "type": "apps",
       "settings": {
@@ -438,7 +438,7 @@
         "full_width": true,
         "subheading": "",
         "title": "PREGUNTAS FRECUENTES",
-        "content": "<p></p><p></p><p></p>",
+        "content": "<p>Aquí encontrarás respuestas a las preguntas más frecuentes.</p>",
         "team_avatar_width": 160,
         "support_hours": "¿Tienes alguna pregunta? Estamos aquí para ayudarte.",
         "answer_time": "Tiempo de respuesta: 24 horas",
@@ -480,9 +480,9 @@
     "custom_liquid_rGhdND",
     "1768739966b43c59e4",
     "image-link-blocks",
-    "image_with_text_overlay_4tqRFx",
     "featured_collection_P9DDR6",
     "ss_scrolling_images_6tG3bn",
+    "image_with_text_overlay_4tqRFx",
     "1768741694f4379c60",
     "faq_PpdCgK",
     "image_with_text_overlay_BDYPHX"
