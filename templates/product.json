@@ -355,6 +355,7 @@
         "testimonial_yEHrXf": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/hf_20260612_091435_036a7d94-4c3d-41ba-b659-23f5c534ac2f.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -366,6 +367,7 @@
         "testimonial_9tRKr3": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/hf_20260612_091612_6d1d0061-71c0-47fe-9613-114010cd1320.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -377,6 +379,7 @@
         "testimonial_Y8BFRX": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/hf_20260612_091416_3bce7c7f-1b8f-47b0-b97d-722bab895560.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -388,6 +391,7 @@
         "testimonial_8w7nw7": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/hf_20260612_091629_8be75d7e-28ae-4af8-9bf4-9f5baee9b1dd.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -399,6 +403,7 @@
         "testimonial_C7KbdC": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/hf_20260612_091618_aff2c9b6-681f-40b6-b49d-575cd6097ce5.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -410,6 +415,7 @@
         "testimonial_WUHqjf": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/hf_20260612_091625_d15e6f1f-98cd-4aa0-8321-bd9c5a2b0f08.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -431,7 +437,7 @@
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
-        "subheading": "Excelente 4.9/5 ★★★★★",
+        "subheading": "",
         "title": "Reseñas reales verificadas",
         "content": "",
         "link_url": "",
