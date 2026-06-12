@@ -432,6 +432,9 @@
     "checkout": {
       "shipping_errors": {
         "empty_state": "Envío Premium Gratuito"
+      },
+      "order_summary": {
+        "enter_shipping_address": "Gratis"
       }
     }
   }
