@@ -365,7 +365,7 @@
           "type": "tab",
           "settings": {
             "title": "GARANTÍA DE REEMBOLSO",
-            "content": "<p>Confiamos en la calidad de nuestros productos y creemos que te encantarán. Por eso ofrecemos una política de devolución de 30 días.</p><p>Si por cualquier motivo no estás completamente satisfecho con tu compra, puedes solicitar una devolución o un cambio dentro de los 30 días posteriores a la entrega.</p>",
+            "content": "<p>Confiamos en la <strong>calidad</strong> de nuestros productos y creemos que te encantarán. Por eso ofrecemos una <strong>política de devolución de 30 días</strong>.</p><p>Si por cualquier motivo no estás completamente satisfecho con tu compra, puedes solicitar una <strong>devolución</strong> o un <strong>cambio</strong>dentro de los <strong>30 días posteriores a la entrega</strong>.</p>",
             "page": ""
           }
         },
