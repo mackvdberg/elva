@@ -44,11 +44,11 @@
           "settings": {
             "use_dot": true,
             "icon_color": "#d95c5c",
-            "icon_size": 12,
+            "icon_size": 10,
             "ships_by_text": "La oferta termina el",
             "shipping_within_days": 1,
             "include_weekend": true,
-            "ships_by_font_size": 14,
+            "ships_by_font_size": 13,
             "ships_by_text_color": "#b84c2f",
             "fast_shipping_text": "",
             "allow_all_countries": true,
