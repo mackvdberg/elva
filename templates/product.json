@@ -350,6 +350,54 @@
         "lazy": true
       }
     },
+    "tabs_3pE9Td": {
+      "type": "tabs",
+      "blocks": {
+        "tab_nFRE4b": {
+          "type": "tab",
+          "settings": {
+            "title": "ENVÍOS Y ENTREGA",
+            "content": "<p>Disfruta de <strong>Envío Premium Gratuito a todo Chile</strong>.</p><p>Todos los pedidos incluyen entrega segura y seguimiento completo. Una vez que tu pedido haya sido enviado, recibirás un número de seguimiento por correo electrónico para que puedas monitorear tu entrega en cualquier momento.</p>",
+            "page": ""
+          }
+        },
+        "tab_TMzjeC": {
+          "type": "tab",
+          "settings": {
+            "title": "GARANTÍA DE REEMBOLSO",
+            "content": "<p>Confiamos en la calidad de nuestros productos y creemos que te encantarán. Por eso ofrecemos una política de devolución de 30 días.</p><p>Si por cualquier motivo no estás completamente satisfecho con tu compra, puedes solicitar una devolución o un cambio dentro de los 30 días posteriores a la entrega.</p>",
+            "page": ""
+          }
+        },
+        "tab_VTtzXc": {
+          "type": "tab",
+          "settings": {
+            "title": "MATERIALES",
+            "content": "<p>En <strong>Elva Santiago</strong> creemos que la moda debe sentirse tan bien como se ve. Por eso seleccionamos cuidadosamente <strong>materiales de calidad</strong>, elegidos por su <strong>comodidad</strong>, <strong>durabilidad</strong> y acabado.</p><p>Nuestra colección reúne <strong>piezas atemporales</strong> diseñadas para acompañarte temporada tras temporada, combinando <strong>estilo</strong>, <strong>calidad</strong> y <strong>confort</strong> en cada detalle.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_nFRE4b",
+        "tab_TMzjeC",
+        "tab_VTtzXc"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "testimonials_peqGKH": {
       "type": "testimonials",
       "blocks": {
@@ -644,6 +692,7 @@
         "item_9EqwAe",
         "item_fQi3by"
       ],
+      "disabled": true,
       "name": "Accordion content",
       "settings": {
         "full_width": true,
@@ -707,6 +756,7 @@
   "order": [
     "main",
     "ss_scrolling_images_emzJij",
+    "tabs_3pE9Td",
     "testimonials_peqGKH",
     "1764013233e3b67ebb",
     "related-products",
