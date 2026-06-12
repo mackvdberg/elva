@@ -33,6 +33,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_bxFw7B": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!-- Outfit Font Import -->\n<link href=\"https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap\" rel=\"stylesheet\">\n\n<style>\n  .product-benefits {\n    margin: 15px 0;\n    font-family: 'Outfit', sans-serif;\n  }\n\n  .product-benefits ul {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n\n  .product-benefits li {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    margin-bottom: 8px;\n    font-size: 14px;\n    line-height: 1.4;\n    color: #000;\n    font-weight: 400;\n  }\n\n  .product-benefits strong {\n    font-weight: 600;\n  }\n\n  .product-benefits img,\n  .product-benefits svg {\n    width: 18px;\n    height: 18px;\n    flex-shrink: 0;\n  }\n</style>\n\n<div class=\"product-benefits\">\n  <ul>\n    <li>\n      <img src=\"https://cdn.shopify.com/s/files/1/0910/2999/5868/files/delivery-truck_6_1_1.svg?v=1772023214\" alt=\"Envío gratuito\">\n      <span><strong>Envío gratuito a todo Chile</strong></span>\n    </li>\n\n    <li>\n      <img src=\"https://cdn.shopify.com/s/files/1/0910/2999/5868/files/2022-08-23_014813_1_633843a9-7bc1-4207-9b57-fe296e399b20.png?v=1772023214\" alt=\"Cambios y devoluciones\">\n      <span><strong>30 días para cambios y devoluciones</strong></span>\n    </li>\n\n    <li>\n      <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <rect x=\"4\" y=\"11\" width=\"16\" height=\"10\" rx=\"2\" stroke=\"#000\" stroke-width=\"1.8\"/>\n        <path d=\"M8 11V7.5C8 5.01 10.01 3 12.5 3C14.99 3 17 5.01 17 7.5V11\" stroke=\"#000\" stroke-width=\"1.8\" stroke-linecap=\"round\"/>\n      </svg>\n      <span><strong>Pago seguro con cifrado SSL</strong></span>\n    </li>\n  </ul>\n</div>"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -107,6 +113,7 @@
         "title",
         "badges",
         "price",
+        "liquid_bxFw7B",
         "separator",
         "variant_picker",
         "quantity_selector",
