@@ -523,44 +523,39 @@
         "product_card_text_color": ""
       }
     },
-    "images_with_text_scrolling_jzdbLP": {
-      "type": "images-with-text-scrolling",
+    "image_with_text_overlay_VV7BGF": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "item_6JFzJT": {
-          "type": "item",
+        "heading_mFLQ9H": {
+          "type": "heading",
           "settings": {
-            "icon": "none",
-            "icon_width": 40,
-            "title": "GARANTÍA DE REEMBOLSO DE 30 DÍAS",
-            "content": "<p><strong>Respaldamos cada prenda de Elva Santiago con confianza.</strong></p><p>Tu satisfacción es nuestra prioridad, por eso ofrecemos una Garantía de Reembolso de 30 Días. Si tu pedido no cumple con tus expectativas, puedes devolverlo dentro del plazo establecido y recibir un reembolso completo.</p>"
+            "text": "GARANTÍA DE REEMBOLSO DE 30 DÍAS",
+            "heading_tag": "h1"
           }
         },
-        "item_XqGwfR": {
-          "type": "item",
+        "richtext_MtyjJH": {
+          "type": "richtext",
           "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "¡DESDE SANTIAGO CON CARIÑO!",
-            "content": "<p>En <strong>Elva Santiago</strong>, tu satisfacción es nuestra prioridad. Desde que descubres nuestra colección hasta que recibes tu pedido, trabajamos para ofrecerte una experiencia de compra sencilla, confiable y con estilo.</p>"
+            "content": "<p><strong>Respaldamos cada prenda de Elva Santiago con confianza.</strong></p><p>Tu satisfacción es nuestra prioridad, por eso ofrecemos una Garantía de Reembolso de 30 Días. Si tu pedido no cumple con tus expectativas, puedes devolverlo dentro del plazo establecido y recibir un reembolso completo.</p>"
           }
         }
       },
       "block_order": [
-        "item_6JFzJT",
-        "item_XqGwfR"
+        "heading_mFLQ9H",
+        "richtext_MtyjJH"
       ],
-      "name": "Images and text scrolling",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "#f6f6f6",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/hf_20260612_095939_74baaa6c-6503-48d9-b7de-c7a73ea40e54.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 53
       }
     }
   },
@@ -570,6 +565,6 @@
     "tabs_3pE9Td",
     "testimonials_peqGKH",
     "related_products_pDJFqD",
-    "images_with_text_scrolling_jzdbLP"
+    "image_with_text_overlay_VV7BGF"
   ]
 }
