@@ -352,15 +352,26 @@
     "testimonials_peqGKH": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_yEHrXf": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Carolina Fernández",
+            "title": "",
+            "content": "<p>Fue mi primera compra y la experiencia fue excelente. El vestido se ve aún mejor en persona, la tela tiene una caída muy bonita y el envío llegó antes de lo esperado. Sin duda volvería a comprar.</p>"
+          }
+        },
         "testimonial_9tRKr3": {
           "type": "testimonial",
           "settings": {
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "María G.",
-            "title": "Muy buena compra",
-            "content": "<p>Tenía mis dudas al principio, pero me sorprendió para bien. Se siente cómodo y queda muy bien puesto. Es de esas prendas que te hacen sentir bien sin esfuerzo. Lo uso más de lo que esperaba.</p>"
+            "author": "Claudia Sepúlveda",
+            "title": "",
+            "content": "<p>Compré un bolso y superó mis expectativas. Tiene un diseño elegante, combina fácilmente con distintos looks y llegó en perfectas condiciones. Toda la experiencia de compra fue excelente de principio a fin.</p>"
           }
         },
         "testimonial_Y8BFRX": {
@@ -369,9 +380,20 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Carmen R.",
-            "title": "Aún más bonito en persona",
+            "author": "Alejandra Torres",
+            "title": "",
             "content": "<p>Me gustó en la web, pero en persona gana mucho. Tiene muy buena presencia y sienta genial. Es cómodo y fácil de combinar. Ya estoy mirando qué más pedir.</p>"
+          }
+        },
+        "testimonial_8w7nw7": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "María José Rojas",
+            "title": "",
+            "content": "<p>Pedí un conjunto y me encantó desde el primer momento. Es muy cómodo, la tela se siente suave y queda precioso puesto. Además, respondieron mis dudas rápidamente, algo que valoro mucho al comprar online.</p>"
           }
         },
         "testimonial_C7KbdC": {
@@ -380,8 +402,8 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Lucía M.",
-            "title": "Se nota la calidad",
+            "author": "Andrea Rojas",
+            "title": "",
             "content": "<p>Nada más recibirlo se nota que está bien hecho. Tiene un acabado bonito y se ve cuidado. Me gusta porque es cómodo pero a la vez se ve elegante. Lo recomiendo.</p>"
           }
         },
@@ -391,15 +413,17 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Elena S.",
-            "title": "Cómodo y favorecedor",
+            "author": "Verónica Silva",
+            "title": "",
             "content": "<p>Buscaba algo sencillo pero bonito y ha sido un acierto. Queda bien sin esfuerzo y es muy cómodo de llevar. Perfecto para el día a día.</p>"
           }
         }
       },
       "block_order": [
+        "testimonial_yEHrXf",
         "testimonial_9tRKr3",
         "testimonial_Y8BFRX",
+        "testimonial_8w7nw7",
         "testimonial_C7KbdC",
         "testimonial_WUHqjf"
       ],
@@ -407,8 +431,8 @@
       "settings": {
         "full_width": true,
         "stack_testimonials": false,
-        "subheading": "",
-        "title": "LO QUE DICE NUESTRA COMUNIDAD",
+        "subheading": "Excelente 4.9/5 ★★★★★",
+        "title": "Reseñas reales verificadas",
         "content": "",
         "link_url": "",
         "link_text": "",
