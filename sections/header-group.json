@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "HASTA UN 50% DE DESCUENTO",
+            "text": "HASTA UN 70% DE DESCUENTO",
             "url": ""
           }
         },
         "message_yePxjR": {
           "type": "message",
           "settings": {
-            "text": "ENVÍO GRATIS CON CORREOS",
+            "text": "ENVÍO GRATIS A TODO CHILE",
             "url": ""
           }
         },
         "message_qeiDBg": {
           "type": "message",
           "settings": {
-            "text": "DEVOLUCIONES FÁCILES EN UN PLAZO DE 30 DÍAS",
+            "text": "DEVOLUCIONES FÁCILES DURANTE 30 DÍAS",
             "url": ""
           }
         }
