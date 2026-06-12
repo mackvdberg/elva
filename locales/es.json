@@ -428,6 +428,11 @@
   "shopify": {
     "links": {
       "powered_by_shopify": "ㅤ"
+    },
+    "checkout": {
+      "shipping_errors": {
+        "empty_state": "Envío Premium Gratuito"
+      }
     }
   }
 }
