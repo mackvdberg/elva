@@ -291,6 +291,7 @@
         "image_cAttTB",
         "image_fPqjht"
       ],
+      "disabled": true,
       "name": "SS - Scrolling images",
       "settings": {
         "heading": "",
@@ -581,6 +582,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/hf_20260611_133323_f68cbb6f-3959-4e75-8d09-20c2324d0a85.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -662,6 +664,29 @@
         "accordion_text_color": ""
       }
     },
+    "related_products_pDJFqD": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "También te puede interesar",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "image_with_text_overlay_dixQHr": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -670,6 +695,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/hf_20260611_123814_be1aa208-e95a-4114-816d-0bb0b9568abe.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -687,6 +713,7 @@
     "text_with_icons_MHQxAN",
     "image_with_text_overlay_mG9A9Q",
     "accordion_content_AHn8VQ",
+    "related_products_pDJFqD",
     "image_with_text_overlay_dixQHr"
   ]
 }
