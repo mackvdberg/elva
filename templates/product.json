@@ -144,6 +144,34 @@
             "liquid": "<style>\n.custom-shipping-container {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  padding: 8px 14px;\n  background-color: #eeeeee;\n  border-radius: 8px;\n  font-size: 13px;\n}\n\n.left-side,\n.right-side {\n  display: flex;\n  align-items: center;\n  gap: 8px;\n}\n\n.green-dot {\n  width: 10px;\n  height: 10px;\n  background-color: #137333;\n  border-radius: 50%;\n}\n\n.flag {\n  width: 18px;\n  height: 18px;\n  border-radius: 50%;\n  object-fit: cover;\n}\n\n.bold {\n  font-weight: 600;\n}\n\n@media (max-width: 480px) {\n  .custom-shipping-container {\n    font-size: 12px;\n    padding: 8px 10px;\n  }\n\n  .flag {\n    width: 16px;\n    height: 16px;\n  }\n}\n</style>\n\n<div class=\"custom-shipping-container\">\n\n  <div class=\"left-side\">\n    <div class=\"green-dot\"></div>\n    <div>\n      Enviado el <span id=\"shipping-date\" class=\"bold\"></span>\n    </div>\n  </div>\n\n  <div class=\"right-side\">\n    <img\n      src=\"https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg\"\n      alt=\"Chile flag\"\n      class=\"flag\">\n    <div class=\"bold\">\n      Envío Premium\n    </div>\n  </div>\n\n</div>\n\n<script>\nfunction updateShippingDate() {\n  var today = new Date();\n  var shipDate = new Date(today);\n\n  // Verzenddatum = morgen\n  shipDate.setDate(shipDate.getDate() + 1);\n\n  var options = {\n    weekday: 'short',\n    day: 'numeric',\n    month: 'short'\n  };\n\n  var formattedDate = shipDate.toLocaleDateString('es-CL', options);\n\n  var el = document.getElementById('shipping-date');\n  if (el) {\n    el.textContent = formattedDate;\n  }\n}\n\ndocument.addEventListener(\"DOMContentLoaded\", updateShippingDate);\nsetTimeout(updateShippingDate, 500);\nsetTimeout(updateShippingDate, 1500);\n</script>"
           }
         },
+        "section_store_block_banner_KHyaqQ": {
+          "type": "shopify://apps/section-store/blocks/block-banner/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "gap": 2,
+            "text_align": "center",
+            "link": "",
+            "use_image": false,
+            "icon": "rocket",
+            "image_size": 30,
+            "image_position": "left",
+            "icon_color": "#B82020",
+            "title_text": "<p><strong>HASTA 70% DE DESCUENTO</strong></p>",
+            "title_size": 14,
+            "title_color": "#B82020",
+            "body_text": "<p>EL STOCK SE AGOTA RÁPIDO, PERO AÚN ESTÁ DISPONIBLE SI PUEDES AÑADIRLO AL CARRITO</p>",
+            "body_size": 11,
+            "body_color": "#B82020",
+            "border": "dotted",
+            "border_thickness": 1,
+            "border_color": "#B82020",
+            "radius": 16,
+            "background": "#FFECEC",
+            "background_gradient": "",
+            "shadow": "none",
+            "padding_vertical": 12,
+            "padding_horizontal": 16
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -172,6 +200,7 @@
         "section_store_block_payment_icons_2_CafmkE",
         "offer_UxPdjz",
         "liquid_Yz3MmE",
+        "section_store_block_banner_KHyaqQ",
         "description",
         "liquid_eH4iGc"
       ],
