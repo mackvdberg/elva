@@ -191,6 +191,36 @@
             "waitForElementSelector": "",
             "waitForElementDelay": 5
           }
+        },
+        "section_store_block_benefits_boxes_2_yTL7cC": {
+          "type": "shopify://apps/section-store/blocks/block-benefits-boxes-2/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "cards_design": "vertical",
+            "cards_row": "3",
+            "card_align": "center",
+            "first_icon": "credit_card",
+            "first_title": "Pay later",
+            "first_sub_title": "up to 60 days",
+            "second_icon": "shield_check",
+            "second_title": "Quality",
+            "second_sub_title": "no‑hassle fixes",
+            "third_icon": "earth",
+            "third_title": "Shipping",
+            "third_sub_title": "worldwide free",
+            "fourth_icon": "star_sparkle",
+            "fourth_title": "",
+            "fourth_sub_title": "",
+            "all_size": 19,
+            "all_color": "#000000",
+            "font_weight": "700",
+            "border": "none",
+            "border_thickness": 1,
+            "border_color": "#000000",
+            "radius": 0,
+            "cards_bg_color": "",
+            "padding_vertical": 0,
+            "padding_horizontal": 0
+          }
         }
       },
       "block_order": [
@@ -211,7 +241,8 @@
         "section_store_block_banner_KHyaqQ",
         "description",
         "liquid_eH4iGc",
-        "kiwi_size_chart_recommender_kiwi_sizing_kGDhxT"
+        "kiwi_size_chart_recommender_kiwi_sizing_kGDhxT",
+        "section_store_block_benefits_boxes_2_yTL7cC"
       ],
       "settings": {
         "full_width": false,
