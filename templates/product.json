@@ -183,6 +183,14 @@
           "settings": {
             "liquid": "<div id='ss-tabs-icon-insert-block'></div>"
           }
+        },
+        "kiwi_size_chart_recommender_kiwi_sizing_kGDhxT": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "fallbackToBlockPosition": false,
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
         }
       },
       "block_order": [
@@ -202,7 +210,8 @@
         "liquid_Yz3MmE",
         "section_store_block_banner_KHyaqQ",
         "description",
-        "liquid_eH4iGc"
+        "liquid_eH4iGc",
+        "kiwi_size_chart_recommender_kiwi_sizing_kGDhxT"
       ],
       "settings": {
         "full_width": false,
