@@ -438,6 +438,47 @@
         "heading_gradient": ""
       }
     },
+    "178142687663e1b1ee": {
+      "type": "apps",
+      "blocks": {
+        "section_store_block_social_proof_NJeWpq": {
+          "type": "shopify://apps/section-store/blocks/block-social-proof/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "settings": {
+            "profile1": "shopify://shop_images/hf_20260614_085427_25acd815-2a5f-4b99-9748-ef5b0ae209c4.png",
+            "profile2": "shopify://shop_images/hf_20260614_085423_161d05f2-7f02-42b2-a8ae-c0ce0bbdc10c.png",
+            "profile3": "shopify://shop_images/hf_20260614_085416_2e11fbd1-d7d9-42fd-aab0-aef8f0be0075.png",
+            "profile4": "shopify://shop_images/hf_20260614_085420_61b6fedb-79f2-43f5-b03b-2bc4ea7e0806.png",
+            "profile5": "shopify://shop_images/hf_20260614_085411_db95b207-1cb0-4a71-8252-fac43b70e31e.png",
+            "slide_icon_size": 28,
+            "use_carousel": true,
+            "text": "<p>¡<strong>María</strong> ✓, <strong>Daniela</strong> ✓ y más de 5.000 clientas satisfechas!</p>",
+            "text_size": 13,
+            "text_color": "#000000",
+            "checkmark_size": 13,
+            "symbols_color": "#42A5F5",
+            "border": "solid",
+            "border_thickness": 1,
+            "border_color": "#D7D7D7",
+            "radius": 16,
+            "bg_color": "#F6F6F6",
+            "padding_vertical": 12,
+            "padding_horizontal": 16,
+            "clip_as_header_of_wrapper": false
+          }
+        }
+      },
+      "block_order": [
+        "section_store_block_social_proof_NJeWpq"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonials_peqGKH": {
       "type": "testimonials",
       "blocks": {
@@ -603,6 +644,7 @@
     "main",
     "ss_scrolling_images_emzJij",
     "tabs_3pE9Td",
+    "178142687663e1b1ee",
     "testimonials_peqGKH",
     "related_products_pDJFqD",
     "image_with_text_overlay_VV7BGF"
