@@ -434,7 +434,12 @@
         "empty_state": "Envío Premium Gratuito"
       },
       "order_summary": {
-        "enter_shipping_address": "Gratis"
+        "enter_shipping_address": "Gratis",
+        "subtotal_label": "Total"
+      },
+      "contact": {
+        "company_label": "RUT",
+        "optional_company_label": "RUT (recomendado para la entrega)"
       }
     }
   }
