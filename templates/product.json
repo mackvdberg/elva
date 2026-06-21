@@ -201,7 +201,7 @@
             "first_icon": "lock",
             "first_title": "Envío Seguro",
             "first_sub_title": "",
-            "second_icon": "heart",
+            "second_icon": "shield_check",
             "second_title": "30 Días de Devolución",
             "second_sub_title": "",
             "third_icon": "earth",
@@ -443,6 +443,7 @@
       "blocks": {
         "section_store_block_social_proof_NJeWpq": {
           "type": "shopify://apps/section-store/blocks/block-social-proof/d7a2e423-ea88-4344-b866-6d0fb487c3dd",
+          "disabled": true,
           "settings": {
             "profile1": "shopify://shop_images/hf_20260614_085427_25acd815-2a5f-4b99-9748-ef5b0ae209c4.png",
             "profile2": "shopify://shop_images/hf_20260614_085423_161d05f2-7f02-42b2-a8ae-c0ce0bbdc10c.png",
@@ -455,12 +456,12 @@
             "text_size": 13,
             "text_color": "#000000",
             "checkmark_size": 13,
-            "symbols_color": "#42A5F5",
+            "symbols_color": "#42a5f5",
             "border": "solid",
             "border_thickness": 1,
-            "border_color": "#D7D7D7",
+            "border_color": "#d7d7d7",
             "radius": 16,
-            "bg_color": "#F6F6F6",
+            "bg_color": "#f6f6f6",
             "padding_vertical": 12,
             "padding_horizontal": 16,
             "clip_as_header_of_wrapper": false
@@ -563,6 +564,7 @@
         "testimonial_C7KbdC",
         "testimonial_WUHqjf"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
@@ -631,7 +633,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/hf_20260612_095939_74baaa6c-6503-48d9-b7de-c7a73ea40e54.png",
+        "image": "shopify://shop_images/chile.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
