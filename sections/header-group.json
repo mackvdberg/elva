@@ -16,6 +16,7 @@
       "blocks": {
         "message": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "HASTA UN 70% DE DESCUENTO",
             "url": ""
